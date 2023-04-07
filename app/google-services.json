@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228648267208",
+    "project_id": "pharmkare",
+    "storage_bucket": "pharmkare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228648267208:android:f5816badea4f26735824fd",
+        "android_client_info": {
+          "package_name": "com.example.pharmkare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228648267208-1pq4qeb9mjasur1g322vcsalano61pl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEpeBVUEcAi3tuXw-VoCSqRwXh70g-C_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228648267208-1pq4qeb9mjasur1g322vcsalano61pl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
